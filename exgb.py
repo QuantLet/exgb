@@ -3,7 +3,7 @@ import xgboost as xgb
 import sklearn.metrics
 
 Ndata = 5;
-dataSets = ['1year.csv','2year.csv','3year.csv','4year.csv','5year.csv'];
+dataSets = ['exgb1.csv','exgb2.csv','exgb3.csv','exgb4.csv','exgb5.csv'];
 resutSets = ['CV1year.csv','CV2year.csv','CV3year.csv','CV4year.csv','CV5year.csv'];
 fillingMissing = -99999;
 
