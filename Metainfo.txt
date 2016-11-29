@@ -2,7 +2,7 @@ Name of QuantLet : exgb
 
 Published in : 'ZiÄba, Maciej, Sebastian K. Tomczak, and Jakub M. Tomczak. Ensemble boosted trees with synthetic features generation in application to bankruptcy prediction. Expert Systems with Applications 58 (2016): 93-101.'
 
-Description : 'The Ensemble XGB model that creates artificial features during training. Model is tested using real data for Polish companies'
+Description : 'Produces the Ensemble XGB model that creates artificial features during training. Model is tested using real data for Polish companies'
 
 Keywords : 'xgb, ensemble classifier, bankruptcy prediction, artificial features, risk modeling'
 
